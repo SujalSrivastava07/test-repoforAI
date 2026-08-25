@@ -1,0 +1,1 @@
+# Project Roadmap\n\n- Qdrant Vector DB Integration for semantic code search\n- Real-time WebSocket support for the dashboard\n- Dockerization of the backend and frontend
