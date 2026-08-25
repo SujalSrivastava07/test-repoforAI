@@ -1,0 +1,1 @@
+# Feature Roadmap\n\nThis document outlines upcoming features, their status, target release, and any relevant notes.\n\n| Feature | Target Release | Status | Owner |\n|---------|----------------|--------|-------|\n| Example Feature | v1.2 | Planned | @username |
